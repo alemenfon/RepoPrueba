@@ -5,11 +5,11 @@
 //cambios
 
 de local
-<<<<<<< HEAD
+
 
 de local
 
 
-=======
+
 de remoto
->>>>>>> ea146502a6248f503c8a053b5b42549d1a93046b
+
